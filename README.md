@@ -1,3 +1,4 @@
+![logo](https://github.com/AnkithaC46/AnkithaC46/blob/main/Navy%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi , I'm Ankitha C</h1>
 <h3 align="center">Coding Enthusiast</h3>
 <img align="right" alt="coding" width="400"  src="https://iconscout.com/lottie-animation/female-web-developer-5942137"/>
