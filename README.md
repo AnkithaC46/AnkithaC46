@@ -3,7 +3,7 @@
 <h3 align="center">Coding Enthusiast</h3>
 
 
-- 🔭 I’m currently working on **Frontend Web Development**
+- 🔭 I’m currently working on **App and Web Development**
 
 
 
